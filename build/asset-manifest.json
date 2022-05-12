@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-overlay/static/css/main.c63f6861.css",
+    "main.js": "/login-overlay/static/js/main.32a29205.js",
+    "index.html": "/login-overlay/index.html",
+    "main.c63f6861.css.map": "/login-overlay/static/css/main.c63f6861.css.map",
+    "main.32a29205.js.map": "/login-overlay/static/js/main.32a29205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c63f6861.css",
+    "static/js/main.32a29205.js"
+  ]
+}
