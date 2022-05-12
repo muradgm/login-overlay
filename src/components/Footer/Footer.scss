@@ -1,0 +1,9 @@
+.Footer {
+  height: 75px;
+  background: lightcyan;
+  display: flex;
+  > * {
+    margin: auto;
+    padding: 5px;
+  }
+}
